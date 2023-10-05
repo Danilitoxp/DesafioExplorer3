@@ -14,7 +14,7 @@
 
 CORREÇÃO DE LAYOUT DO PROJETO TREINE ME DA ROCKTSEAT
 
-- [Acesse o projeto]()
+- [Acesse o projeto](https://explorer3.vercel.app/)
 
 ## 🚀 Tecnologias
 
